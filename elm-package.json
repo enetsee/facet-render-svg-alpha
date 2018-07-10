@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "summary": "SVG renderer for `Facet`",
     "repository": "https://github.com/enetsee/facet-render-svg-alpha.git",
     "license": "MIT",
